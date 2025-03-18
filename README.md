@@ -1,8 +1,3 @@
-﻿# Gallery-for-you
-Here's a description for your GitHub repository:  
-
----
-
 # 🎨 Gallery For You | HTML, CSS, JS  
 
 This project is a **beautiful photo gallery** built using **HTML, CSS, and JavaScript**, featuring **special animations and wishes** for an engaging user experience.  
